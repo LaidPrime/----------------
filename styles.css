@@ -246,7 +246,7 @@ h3 {
 /* размер картинок в строке */
 .marquee img {
     height: 40vh;
-    width: 60vh;
+    width: 30vw;
 }
 
 .marquee h2 {
