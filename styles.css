@@ -232,8 +232,8 @@ h3 {
     max-width: 100%;
     overflow: hidden;
     box-sizing: border-box;
-    /* Высота бегущей строки */
-    height: 40vh;
+    /* Высота бегущей строки (вместе с текстом поэтому должно быть больше высоты картинок)*/
+    height: 45vh;
 }
 
 .marquee-content {
