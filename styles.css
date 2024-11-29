@@ -41,7 +41,6 @@ body {
 
 body>div>p {
     text-align: justify;
-    padding: 15px;
 }
 
 /* свойства для создания эффекта паралакса для названия сайта */
@@ -116,8 +115,6 @@ body>div>p {
     height: 65vh;
 
     padding-top: 3vh;
-    padding-right: 3vw;
-    padding-left: 3vw;
 }
 
 .container_2 {
