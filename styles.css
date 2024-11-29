@@ -180,7 +180,7 @@ h3 {
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
-    min-width: 35vw;
+    min-width: 40vw;
     margin: 0 auto;
 }
 
@@ -199,8 +199,8 @@ h3 {
 }
 
 .list img {
-    width: 35vw;
-    max-width: 35vw;
+    width: 40vw;
+    max-width: 40vw;
     height: 100%;
     object-fit: cover;
 }
