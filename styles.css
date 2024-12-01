@@ -242,7 +242,7 @@ h3 {
 
 .marquee-content {
     display: flex;
-    width: 550%;
+    width: 600%;
     /* Настройка скорости анимации */
     animation: marquee 60s linear infinite;
 }
